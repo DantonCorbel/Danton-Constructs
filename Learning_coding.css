@@ -16,6 +16,13 @@ h1, h2, h3 {
   text-align: center;
 }
 
+#NB {
+  color: #bf42f4;
+  font-size: 28;
+  font-style: Ariel;
+  font-weight: bold;
+}
+
 h1{
   font-size: 30px;
   color: Red;
