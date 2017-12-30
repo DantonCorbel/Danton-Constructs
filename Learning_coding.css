@@ -35,3 +35,7 @@ color: Blue;
 color: rgb(0,0,255);
   color: #00F;
 }
+
+p {
+  text-align: justify;
+}
