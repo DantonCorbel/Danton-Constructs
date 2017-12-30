@@ -12,9 +12,12 @@ body {
   top: 150px;
   
 }
+h1, h2, h3 {
+  text-align: center;
+}
+
 h1{
   font-size: 30px;
-  text-align: center;
   color: Red;
   color: rgb(255,0,0);
   color: #F00;
