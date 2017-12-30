@@ -1,6 +1,17 @@
 * {
   font-family: 'Covered By Your Grace', 'Times New Roman', sans-serif; 
 }
+body {
+  border: 3px solid rgb(22, 77, 100);
+  margin: 10px auto;
+  padding: 10px 10px;
+  width: 80%;
+  border-radius: 10px;
+  background-color: #fff;
+  position: relative;
+  top: 150px;
+  
+}
 h1{
   font-size: 30px;
   color: Red;
