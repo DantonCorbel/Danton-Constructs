@@ -12,7 +12,7 @@ body {
   top: 150px;
   
 }
-h1, h2, h3, #NB {
+h1, h3, #NB {
   text-align: center;
 }
 
@@ -29,7 +29,12 @@ h1{
   color: rgb(255,0,0);
   color: #F00;
 }
-h2, h3 {
+
+h2 {
+  font-size: 25px;
+}
+
+h3 {
 font-size: 20px;
 color: Blue;
 color: rgb(0,0,255);
