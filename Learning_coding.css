@@ -54,7 +54,7 @@ p {
   position: fixed;
   top: 15px
   padding: 15px;
-  margin: 15px
+  margin: 30px
   color: rgb(55,114,64);
 }
 .sidebar h3 {
@@ -62,7 +62,7 @@ p {
 }
 
 .header {
-  postion: fixed;
+  position: fixed;
 }
 
 .header nav {
