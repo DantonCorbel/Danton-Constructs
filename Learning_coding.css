@@ -49,4 +49,9 @@ p {
 .sidebar {
   float: left;
   width: 30%;
+  position: fixed;
+}
+
+.header {
+  postion: fixed;
 }
