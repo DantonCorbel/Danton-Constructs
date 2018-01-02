@@ -50,10 +50,12 @@ p {
 
 .sidebar {
   float: left;
-  width: 30%;
-  position: sticky;
+  width: 20%;
+  position: fixed;
   top: 15px
   padding: 15px;
+  margin: 15px
+  color: rgb(55,114,64);
 }
 .sidebar h3 {
   text-align: left
@@ -64,6 +66,8 @@ p {
 }
 
 .header nav {
-  top: 100px; 
+  top: 90px; 
+  text-align: center;
+  
 }
 
