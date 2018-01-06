@@ -7,7 +7,10 @@ body {
   border: 3px solid rgb(22, 77, 100);
   margin: 10px auto;
   padding: 10px 10px;
+  
   width: 60%;
+  height: 80%;
+  overflow: auto;
   border-radius: 10px;
   background-color: #fff;
   position: relative;
@@ -65,7 +68,7 @@ p {
 }
 
 #nav {
-  height: 40px;
+  height: 30px;
   background: rgb(112, 160, 109);
   width: 100%;
   margin-top: 0;
