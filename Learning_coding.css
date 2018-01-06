@@ -76,14 +76,14 @@ p {
 }
 
 #nav li {
-  list-style-type: none:
+  list-style-type: none;
+  display: inline;
 }
 
 #nav a {
   color: #fff;
-  display: inline;
   text-decoration: none;
-  line-height: 50px;
+  //line-height: 50px;
   padding: 0 50px;
   text-weight: bold;
   font-size: 1.5em;
