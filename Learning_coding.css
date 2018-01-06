@@ -77,13 +77,13 @@ p {
 
 #nav a {
   color: #fff;
-  display: block;
+  display: inline;
   text-decoration: none;
   line-height: 50px;
   padding: 0 50px;
   text-weight: bold;
   font-size: 1.5em;
-  text-align: center;
+  //text-align: center;
   margin-top:0;
   list-style-type: none:
 }
