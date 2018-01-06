@@ -49,8 +49,10 @@ p {
 }
 
 .header {
+  margin-top: 0;
+  padding-top: 0;
   position: fixed;
-  //top: 0;
+  top: 0;
   width: 100%;
 }
 
