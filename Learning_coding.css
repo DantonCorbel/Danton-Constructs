@@ -30,9 +30,6 @@ h1{
   color: White;
   color: rgb(255,255,255);
   color: #fff;
-  position: fixed;
-  top: 0;
-  left: 0;
 }
 
 h2 {
@@ -48,4 +45,9 @@ color: rgb(0,0,255);
 
 p {
   text-align: justify;
+}
+
+.header {
+  position: fixed;
+  top: 0;
 }
