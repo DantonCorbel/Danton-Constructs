@@ -80,6 +80,7 @@ p {
   text-weight: bold;
   font-size: 1.5em;
   text-align: center;
+  float: right;
 }
 
 #nav a:hover {
