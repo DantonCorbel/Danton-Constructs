@@ -68,7 +68,7 @@ p {
 }
 
 #nav {
-  height: 30px;
+  height: 40px;
   background: rgb(112, 160, 109);
   width: 100%;
   margin-top: 0;
@@ -83,6 +83,7 @@ p {
   text-weight: bold;
   font-size: 1.5em;
   text-align: center;
+  margin-top:0;
 }
 
 #nav a:hover {
