@@ -68,14 +68,16 @@ p {
   height: 50px;
   background: rgb(112, 160, 109);
   width: 100%;
+  margin-top: 0;
 }
 
 #nav a {
   color: #fff;
-  display: block;
+  //display: block;
   text-decoration: none;
   line-height: 50px;
   padding: 0 50px;
+  text-weight: bold;
 }
 
 #nav a:hover {
