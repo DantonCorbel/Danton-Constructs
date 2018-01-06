@@ -78,6 +78,7 @@ p {
 #nav li {
   list-style-type: none;
   display: inline;
+  text-align: center;
 }
 
 #nav a {
@@ -87,7 +88,6 @@ p {
   padding: 0 50px;
   text-weight: bold;
   font-size: 1.5em;
-  //text-align: center;
   margin-top:0;  
 }
 
