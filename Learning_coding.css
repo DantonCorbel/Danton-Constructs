@@ -63,3 +63,21 @@ p {
   position: fixed;
   top: 150px;
 }
+
+#nav {
+  height: 50px;
+  background: rgb(112, 160, 109);
+  width: 100%;
+}
+
+#nav a {
+  color: #fff;
+  display: block;
+  text-decoration: none;
+  line-height: 50px;
+  padding: 0 50px;
+}
+
+#nav a:hover {
+  text-decoration: underline;
+}
