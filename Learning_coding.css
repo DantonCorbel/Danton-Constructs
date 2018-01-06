@@ -75,7 +75,7 @@ p {
   margin-top: 0;
 }
 
-#nav li {
+#nav a {
   color: #fff;
   display: block;
   text-decoration: none;
