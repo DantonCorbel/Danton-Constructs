@@ -71,10 +71,15 @@ p {
 
 .sidebar a {
   text-decoration: none;
+  text-color: #000;
 }
 
 .sidebar a:hover {
   text-decoration: underline;
+}
+
+.sidebar a:visited {
+  color: #000;
 }
 
 #nav {
