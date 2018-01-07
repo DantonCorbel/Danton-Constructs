@@ -91,12 +91,13 @@ p {
   background: rgb(112, 160, 109);
   width: 100%;
   margin-top: 0;
+  text-align: center;
 }
 
 #nav li {
   list-style-type: none;
   display: inline;
-  text-align: center;
+  
 }
 
 #nav a {
@@ -106,7 +107,7 @@ p {
   padding: 0 50px;
   text-weight: bold;
   font-size: 1.5em;
-  margin-top:0;  
+  margin-top:10px;  
 }
 
 #nav a:hover {
