@@ -120,7 +120,7 @@ p {
   width: 100%;
   /*position: -webkit-sticky; /* Safari */
     position: sticky;*/
-  position: relative;
+  position: fixed;
   bottom: 0;
   clear: both;
   padding: 5px;
